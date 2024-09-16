@@ -1,4 +1,4 @@
-# Pizza-Sales-
+# Pizza-Sales -SQL queries
 PIZZA SALES SQL QUERIES
 A. KPI’s
 1. Total Revenue:
